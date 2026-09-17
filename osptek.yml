@@ -1,0 +1,14 @@
+id: tft-2.79-142x428-spi-nv3007
+category: displays
+
+size: "2.79"
+panel: tft
+resolution: 142x428
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP279B001-V2
+    driver: NV3007A
+    touch: none
+    note: 10-pin FPC
