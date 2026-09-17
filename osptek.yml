@@ -6,6 +6,7 @@ panel: tft
 resolution: 142x428
 interface: [spi]
 shape: rect
+corner: sharp
 
 versions:
   - id: YDP279B001-V2
