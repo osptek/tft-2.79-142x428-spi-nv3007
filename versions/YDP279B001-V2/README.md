@@ -66,6 +66,7 @@ tft-2.79-142x428-spi-nv3007/
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书（YDP279B001-V2） | [`docs/YDP279B001-V2.pdf`](./docs/YDP279B001-V2.pdf) |
+| NV3007A SPI 初始化代码（IVO） | [`docs/nv3007a-ivo-spi-init.txt`](./docs/nv3007a-ivo-spi-init.txt) |
 
 ## 购买链接
 
